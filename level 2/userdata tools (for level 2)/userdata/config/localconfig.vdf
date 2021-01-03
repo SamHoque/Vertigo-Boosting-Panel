@@ -1,0 +1,120 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{6e6bff57-4348-4338-8801-3f3194625b3a}"
+		"DefaultAudioDeviceName"		"Alto-falantes (2- USB PnP Audio Device)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{4006246b-6a63-4052-87f3-f68b66e0a713}"
+		"DefaultMicrophoneName"		"Microfone (2- USB PnP Audio Device)"
+	}
+	"friends"
+	{
+		"1139065692"
+		{
+			"NameHistory"
+			{
+				"0"		"baston"
+			}
+		}
+		"PersonaName"		"baston"
+		"communitypreferences"		"0801100118002000280130013800"
+	}
+	"Licenses"
+	{
+		"0"		"010000006a5fb26ec6d5451620c66166c0d081d1e73609d7332c03aae38aac2e3a3d785c76cb0594990b017d4a9c97ee362deabd09f5bf9fe1bd01df48af17d8a599162de72dc9a1db7ca3fd31a25aa5b1ec79f1d243a65924b3032bcd1b3f2c4bbdf2cd2f1e5192ac7b45097bf92916f6b3e76a89fae751eebeed645efa0e54e55c345c22aa0bf80124905d31148e6db6f3186d2f0f55683261bbe7b5ec519c597222a6ddb8944b9b9c51793d592ae38da1459c6ac0aff60bc096db1a598ceed11d21e8517444b56be83345068cc0b7f6e4ecfb0b7c19b55f2e301e940cd06d4ace3607e34a413cbb5eafd504b07d88a34a31653cc50e7d28e58a7ea836ae719509c9072440081db574041bd6fc73f433e9ea5a43cded6b984a4e5bab397efc2e49968ea85a4dbb75a077dbffc005031688fdf35951759cdb7d61b18a0c93f0370c90e301164712000808c4d6a533"
+		"303386"		"010000006a5fb26ec6d5451620c66166c0d081d1e73609d7332c03aae38ab68f3e3d785c76cb0594990b017d4a9c97d24575eabd09f5bf9fe1bd01df48af17d8a599162de72dc9a1db7ca3fd31a25aa5b1ec79f1d243a65924b3032bcd1b3f2c4bbdf2cd2f1e5192ac7b45097bf92916f6b3e76a89fae751eebeed645efa0e54e55c345c22aa0bf80124905d31148e6db6f35a3d496152632006c8e7b5ec53c83e5435bddbbe925daa8a7673593c2ae38da329f765cca2e000c78adf0629e8eed01d23a7245556a947de7a5dc5344051fc88cce10b691c84560c3c039963b46d4ace344e8f6a5b3cae5b9ad03dbc45839f5058113cc50e7f7a82b67eb132b5409c2bc51a292f6c1db5740649b1c073ed37f2df5f7ac1d560a450272fab397efb6f2db488b84c6aa74aaa72be25107957dbd9e554ee7316a2ce6b6784993f99f23b08bec248524712f362ed9b08f9e651d5"
+	}
+	"apptickets"
+	{
+		"7"		"32000000040000005cc3e4430100100107000000999bfaa7780fa8c000000000b249d55f32f9f05f010000000000000000002c08b634ea4d4a9cb93e6e0a6bfafdf308ed334bd1455c80a71776bbc892e5b25f20ab13f91424b05cf2923a4c2f0ad0b218ef29e0ccb68859a64cd46736bc84193a21dd17434bfa89cc7617ead7f5744291fbbbba6108b50dcd540e65bd472fdc91b12885e8e2b17150859d66f1f043cc600db940cde1386a6c1a8b43fdcc82"
+		"730"		"32000000040000005cc3e44301001001da020000999bfaa7780fa8c000000000b249d55f32f9f05f01001aa1040000000000cf57b74e9c73148faeae6c965a0fab5291f4f311a682117f5e530e14d0f900939e107e5ac30b14ec6ae7548bb48a525c027cf8ad0bf466cbba82adbe742817cf658523274828a26b95537537a9ad46c34feb91c52b5465406e5ab5ac8bcdb0596f05849a58810abc74b275d895c27c757738c3658c1568a0d04284409a7f4cb7"
+		"228980"		"32000000040000005cc3e44301001001747e0300999bfaa7780fa8c000000000b249d55f32f9f05f01000000000000000000a07c8f64bff6c8b18eaa0b87046aec281369379d9926de92e3e042d7deec01396a84e20cb2f3f8162fbad6353b6362d5a902269f88ebf7d23617acf022be5fe1db45643ade32e51aac914b1645f08b801aededdc20921e191af8382310d5fc66a259796aa4415734f188a483b9b1e8dbfa9c771b1c828ba1881c78faf6680595"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"095cc3e443000000004800"
+		"Signature"		"13436a8411cdf48dc9fb07d1f9978ba26f114f843675d86249603232c4d4797e027e13c19da1ecb8bbc6cd50d34fb5161e36c5ea5fca28ac59bc9447e12f1a268494e1d391ea451a137e7e88a91bea94dd3ab00629631f6e4fa3da6d56507146c71fa114e68ddeea2a8a1a217f7d1b337e6563a67acb1c01940b967d7c46040b5c7cef74ac24ac18b9276eefc8d1f8eaf43816c2b8deaebd4c6162642971d4241d48610b08a8d5c96299a8977d955716788328e62388264081d15b4470274fd2a4def220ee9f712a54d826ff5dce9b0dd7e4137dd758d4b202e5fd1cee8e3e56c770b213a92a71a2ef35da3fef2a74f4c131078d5bef6555a62d6c17b97c7c42"
+	}
+	"Offline"
+	{
+		"Ticket"		"08dc86939f0415b249d55f"
+		"Signature"		"150c143ec8cd2a9f0e237d0a7d79276ebf7db87b638ef708b5a9a520f734ebbd4e81f19ec2febd0028c06b3ae07ac573550445d29aff2f284022eb931bfa381bf3bfcfb639086646ec07a3073f3f2a17f316106779556502314bf01ad36f679687124d53824a761b01743894dad335236336fbefdcb74ab3e693505cbb94c605f942a573cc9a32cb79b1ec004e31f4e64e0220d29913432cc395b8129a6faea8a4959f710183bbaa28964daa9118e9d8f037cd0a66fea4634bbf67c5e55a34b761cf18eb0992c77bdd599600a25973201ef0c2dd4884c05bcf99da9fa637226b51d14c5367297b46cc23b7a91c1bd2b3de8a14c4e6cd82eb689c161ed7eb6a13"
+	}
+	"CloudKey"		"010000001c4d2e26c22578e87a53cb3acd490182f22daaaeb2a2c98bfdb983d3171d88c2432b4751"
+	"CloudKeyCRC"		"664481898"
+	"SharedAuth"
+	{
+		"id"		"360762933"
+		"AuthData"		"46bbf74fdd7ba4bf0d45141b7f7eccd326b190f4b3ae7fd9524ceef334c60c7a"
+	}
+	"AppInfoChangeNumber"		"10249451"
+	"Software"
+	{
+		"Valve"
+		{
+			"steam"
+			{
+				"Apps"
+				{
+					"730"
+					{
+						"LastPlayed"		"1607814107"
+						"Playtime2wks"		"78"
+						"Playtime"		"485"
+						"BadgeData"		"020000000800"
+						"DisableUpdatesUntil"		"0"
+						"LaunchOptions"		""
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1607813114"
+				"PlayerLevel"		"0"
+			}
+		}
+	}
+	"News"
+	{
+		"Messages"
+		{
+			"3738519882366516306"		"1"
+		}
+	}
+	"WebStorage"
+	{
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"uncategorized\",false]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":730},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}]}}"
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":false}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]}}"
+		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1607813561.774}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1607813121,\"appids\":[]},\"rgIgnoredApps\":[]}"
+		"SteamVoiceSettings_1139065692"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
+		"CTextFilterStore_strBannedPattern"		"\"\\\\b((ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\\\W*sh(it|ti)s?|d[il]+(ck|kc)\\\\W*(ass|bag|breath|eat|face|flip|head|hole|less|suck|weed)\\\\w*|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k(e?d|e?rs?|[ei]?n+g?|t)|m[aou](d+|t+|th|ht|z)(a|e|er|ir|ur)(c|f)c?[aou]c?k\\\\w*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+(e?d|e?r|[ei]?n+g?)|\\\\w*f[vu]+h*c+[hjvk]*(e?d|e?r|[ei]?n+g?|t)|b+i+a*t+c+h+(e+d|e*r?[sz]+|[ei]?n+g?|y)|\\\\w*f[vu]+c?[xkq]+(e?d|e?r|[ei]?n+g?|t)|p(oo+|u+)s+(a+y+|e+|eh|ey|i+|ie|y+)s*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+|\\\\w*f[vu]+h*q(e?d|e?r|[ei]?n+g?|t)|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k|f[ck]+(e?d|e?r|[ei]?n+g?|t)|fu󠀡󠀡cki󠀡󠀡ng|dumb(f|ph)[vu]+c?[xkq]|c(oc?|aw)k\\\\W*suc?k\\\\w*|d[il]+(ck|kc)(ed|ing)|ph[vu]+h*c+[hjvk]*\\\\w*|son\\\\W*of\\\\W*a\\\\W*bitch|\\\\w*who+re(ed|ing|s)|c(o|ah|aw)c?k(s|ed)|s+h+[ily]+t+[ersy]*|a+ss+\\\\W*w?hole?\\\\w*|ph[vu]+c?[xkq]+\\\\w*|f[vu]+c?[xkq]+\\\\w*|bull+sh+[ily]+t+|god\\\\W*damn?\\\\W*it|god\\\\W*damn?\\\\w*|a+ss+\\\\W*fu\\\\w*|c(o|ah|aw)c?k|d[il]+(ck|kc)|b+i+a*t+c+h+|butt\\\\W*fu\\\\w*|cumm(er|ing)|f[vu]+h*c\\\\w*|f[vu]+h*q\\\\w*|sh+i+[ae]+t+|c+u+n+t+\\\\w*|d+i+c+k+s*|fu‎cking|a+sholes?|sh+e+i+t+|F\\\\.U\\\\.C\\\\.K|chodes?|cumshot|fucking|fu‎ck|shit\\\\w*|shtpost|who+re?|cumbag|sluts?|slutty|twats?|cums?|dafuq|diсk|sh it|coq+|hore|kock|shat|dik|fck|\\\\w*negr[ao]+e?s?\\\\w*|\\\\w*f+u+c+k+\\\\w*|\\\\w*fцск\\\\w*|\\\\w*shіtty\\\\w*|\\\\w*f_uc_k\\\\w*|\\\\w*pussy\\\\w*|n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*|f[ae]y?g+[oeiu]+t+s?|ching\\\\W*chongs?|n󠀡󠀡iggers|re+t+a?r[dt]+s?|towel\\\\W*heads?|pac?k(i|ie|y)|ting\\\\W*tongs?|trann(ie|y)s?|white\\\\W*trash|ni:gg\\\\w*:\\\\w*|chin(c|k)s?|n+i+[gq]+s?|polac?ke?s?|yam\\\\W*yams?|\\\\w*niggas?|chinamans?|neekeris?|nigfhers?|redskins?|beaners?|coolies?|f+a+g+s*|fenians?|gringos?|newfags?|ni gg er|nigga\\\\w*|niggles?|nignogs?|rus+kis?|wiggers?|Ϝaggоt|gypsies|injuns?|jiggas?|nikkas?|wiggas?|\\\\w*fag|coons?|dykes?|fa66ot|fagts?|gooks?|gypos?|homos?|kikes?|spics?|tards?|abos?|fgts?|fаgs|gypsy|japs?|wops?|fagz|fаg|f@g|\\\\w*N󠀡󠀡IGGE󠀡󠀡R\\\\w*|\\\\w*ɴɪɢɢᴇʀ\\\\w*|\\\\w*nіggеr\\\\w*|\\\\w*NÍGGER\\\\w*|\\\\w*n\\\\\\\\\\\\|gger\\\\w*|\\\\w*niggеr\\\\w*|\\\\w*F4GG0T\\\\w*|\\\\w*N1GG3R\\\\w*|\\\\w*nigger\\\\w*|\\\\w*nigg4\\\\w*|\\\\w*niggz\\\\w*)\\\\b\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(fak(ed|ers?|ing)|fuchsia|fuku)\\\\b)$\""
+		"ChatStorePopupState_1139065692"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"nettickets"
+	{
+		"730"		"010000006052cb092dabb9e58ccde91ced7803ab459f3f8ed485522d05c87e186c2492299e395f89d7f4a66cb28e69e8697a58ae2787e75548c92351a4fc9c5b63d33aa30832db0fd813ab9b45c41ff5cc190f1e44a0cfbb3bff92c0dbbc831c0a6e4f9ca59c13409a2d5eb13b01db52c4044e4cfc929834ab10a3b101b6f0cc40600ce754954216751627cb0b56e119d291011c3d065562280581d083d965f90d3969ff90eed501e9c7072c1467879f1f8ca329f59781647fa2d84dc9cfc40388002a486d936355fddb8f5fe2839b427ada3a12152bef5e3ba83a9b182ba29c8ba776a39bca28d3753a2f8714c29d6a9dd8fb0ada9a0e1e9f4b56"
+	}
+	"Apps"
+	{
+		"730"
+		{
+			"UseSteamControllerConfig"		"1"
+			"SteamControllerRumble"		"-1"
+			"SteamControllerRumbleIntensity"		"320"
+			"EnableSCTenFootOverlayCheckNew"		"1"
+			"DisableLaunchInVR"		"1"
+		}
+	}
+	"StartupState.Friends"		"0"
+}
