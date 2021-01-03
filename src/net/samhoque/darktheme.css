@@ -1,0 +1,26 @@
+.root {
+    -fx-base: #3f474f;
+    -fx-accent: #e7eff7 ;
+    -fx-default-button: #7f878f ;
+    -fx-focus-color: #efefef;
+    -fx-faint-focus-color: #efefef22;
+    -fx-focused-text-base-color : ladder(
+            -fx-selection-bar,
+            -fx-light-text-color 45.0%,
+            -fx-dark-text-color 46.0%,
+            -fx-dark-text-color 59.0%,
+            -fx-mid-text-color 60.0%
+        );
+    -fx-focused-mark-color : -fx-focused-text-base-color ;   
+
+}
+
+.text-input:focused {
+    -fx-highlight-text-fill: ladder(
+        -fx-highlight-fill,
+        -fx-light-text-color 45.0%,
+        -fx-dark-text-color  46.0%,
+        -fx-dark-text-color  59.0%,
+        -fx-mid-text-color   60.0%
+    );
+}

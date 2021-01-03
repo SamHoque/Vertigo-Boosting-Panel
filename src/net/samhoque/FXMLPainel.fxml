@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox prefHeight="343.0" prefWidth="481.0" stylesheets="@darktheme.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.samhoque.boost.FXMLController">
+<children>
+    <TabPane prefHeight="349.0" prefWidth="463.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+            <Tab text="Configuration">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="322.0" prefWidth="470.0">
+                        <children>
+                            <Separator layoutX="200.0" layoutY="83.0" orientation="VERTICAL" prefHeight="400.0" />
+                            <TextField fx:id="acc1" layoutX="15.0" layoutY="160.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc2" layoutX="15.0" layoutY="190.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc3" layoutX="15.0" layoutY="220.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc4" layoutX="15.0" layoutY="250.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc5" layoutX="15.0" layoutY="280.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc6" layoutX="215.0" layoutY="160.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc7" layoutX="215.0" layoutY="190.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc8" layoutX="215.0" layoutY="220.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc9" layoutX="215.0" layoutY="250.0" prefHeight="25.0" prefWidth="60.0" />
+                            <TextField fx:id="acc10" layoutX="215.0" layoutY="280.0" prefHeight="25.0" prefWidth="60.0" />
+                            <Text layoutX="233.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Team 2">
+                                <font>
+                                    <Font size="29.0" />
+                                </font>
+                            </Text>
+                            <Text layoutX="46.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Team 1">
+                                <font>
+                                    <Font size="29.0" />
+                                </font>
+                            </Text>
+                            <PasswordField fx:id="pass1" layoutX="80.0" layoutY="160.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass2" layoutX="80.0" layoutY="190.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass3" layoutX="80.0" layoutY="220.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass4" layoutX="80.0" layoutY="250.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass5" layoutX="80.0" layoutY="280.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass6" layoutX="280.0" layoutY="160.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass7" layoutX="280.0" layoutY="190.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass8" layoutX="280.0" layoutY="220.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass9" layoutX="280.0" layoutY="250.0" prefHeight="25.0" prefWidth="60.0" />
+                            <PasswordField fx:id="pass10" layoutX="280.0" layoutY="280.0" prefHeight="25.0" prefWidth="60.0" />
+                            <Button layoutX="143.0" layoutY="160.0" mnemonicParsing="false" onAction="#abrir1" text="Open" />
+                            <Button layoutX="143.0" layoutY="280.0" mnemonicParsing="false" onAction="#abrir5" text="Open" />
+                            <Button layoutX="143.0" layoutY="250.0" mnemonicParsing="false" onAction="#abrir4" text="Open" />
+                            <Button layoutX="143.0" layoutY="220.0" mnemonicParsing="false" onAction="#abrir3" text="Open" />
+                            <Button layoutX="143.0" layoutY="190.0" mnemonicParsing="false" onAction="#abrir2" text="Open" />
+                            <Button layoutX="343.0" layoutY="160.0" mnemonicParsing="false" onAction="#abrir6" text="Open" />
+                            <Button layoutX="343.0" layoutY="190.0" mnemonicParsing="false" onAction="#abrir7" text="Open" />
+                            <Button layoutX="343.0" layoutY="220.0" mnemonicParsing="false" onAction="#abrir8" text="Open" />
+                            <Button layoutX="343.0" layoutY="250.0" mnemonicParsing="false" onAction="#abrir9" text="Open" />
+                            <Button layoutX="343.0" layoutY="280.0" mnemonicParsing="false" onAction="#abrir10" text="Open" />
+                            <TextField fx:id="textload1" layoutX="15.0" layoutY="125.0" prefHeight="25.0" prefWidth="126.0" />
+                            <Button layoutX="145.0" layoutY="125.0" mnemonicParsing="false" onAction="#load1" text="Load" />
+                            <TextField fx:id="textload2" layoutX="215.0" layoutY="125.0" prefHeight="25.0" prefWidth="126.0" />
+                            <Button layoutX="345.0" layoutY="125.0" mnemonicParsing="false" onAction="#load2" text="Load" />
+                            <ToolBar layoutX="-3.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="40.0" prefWidth="663.0">
+                                <items>
+                                    <Button mnemonicParsing="false" onAction="#carregar" text="Load configuration" />
+                                    <Button mnemonicParsing="false" onAction="#salvar" text="Save Configuration" />
+                                    <Button mnemonicParsing="false" onAction="#abrir" prefHeight="25.0" prefWidth="112.0" text="Open all accounts" />
+                                    <Button mnemonicParsing="false" onAction="#fechar" text="Close all accounts" />
+                                </items>
+                            </ToolBar>
+                            <Text layoutX="287.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Steam Location" />
+                            <TextField fx:id="steamlocation" layoutX="15.0" layoutY="48.0" prefHeight="25.0" prefWidth="265.0" />
+                        </children>
+                    </AnchorPane>
+                </content>
+            </Tab>
+            <Tab text="Delays">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                        <children>
+                            <ToolBar layoutX="-3.0" prefHeight="40.0" prefWidth="663.0">
+                                <items>
+                                    <Button mnemonicParsing="false" onAction="#carregar" text="Load configuration" />
+                                    <Button mnemonicParsing="false" onAction="#salvar" text="Save Configuration" />
+                                </items>
+                            </ToolBar>
+                            <Text layoutX="18.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="16x0 - 15x15 - 9x0">
+                                <font>
+                                    <Font size="15.0" />
+                                </font>
+                            </Text>
+                            <Separator layoutX="-20.0" layoutY="223.0" prefHeight="0.0" prefWidth="661.0" />
+                            <TextField fx:id="delay2" layoutX="14.0" layoutY="109.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay3" layoutX="14.0" layoutY="136.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay4" layoutX="14.0" layoutY="163.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay5" layoutX="14.0" layoutY="191.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay1" layoutX="14.0" layoutY="81.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay7" layoutX="59.0" layoutY="109.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay8" layoutX="59.0" layoutY="136.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay9" layoutX="59.0" layoutY="163.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay10" layoutX="59.0" layoutY="191.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay6" layoutX="59.0" layoutY="81.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay12" layoutX="103.0" layoutY="109.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay13" layoutX="103.0" layoutY="136.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay14" layoutX="103.0" layoutY="163.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay15" layoutX="103.0" layoutY="191.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay11" layoutX="103.0" layoutY="81.0" prefHeight="25.0" prefWidth="40.0" />
+                            <TextField fx:id="delay16" layoutX="15.0" layoutY="235.0" prefHeight="25.0" prefWidth="60.0" />
+                            <Text layoutX="79.0" layoutY="253.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mouse speed (Lobby creation)" />
+                            <Text layoutX="150.0" layoutY="94.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Start delay" wrappingWidth="64.98828125" />
+                            <Text layoutX="150.0" layoutY="126.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Reconnect delay (normal)" />
+                            <Text layoutX="150.0" layoutY="153.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Disconnect delay (normal)" />
+                            <Text layoutX="150.0" layoutY="208.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Disconnect delay (last)" />
+                            <Text layoutX="150.0" layoutY="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Reconnect delay (last)" />
+                            <TextField fx:id="delay17" layoutX="15.0" layoutY="267.0" prefHeight="25.0" prefWidth="60.0" />
+                            <Text layoutX="79.0" layoutY="285.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mouse speed (for everything else)" />
+                        </children></AnchorPane>
+                </content>
+            </Tab>
+            <Tab text="Matchmaking">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="330.0" prefWidth="517.0">
+                        <children>
+                            <Button layoutX="15.0" layoutY="166.0" mnemonicParsing="false" onAction="#aao" text="AutoAccept Only" />
+                            <Button layoutX="15.0" layoutY="206.0" mnemonicParsing="false" onAction="#createlobby" text="Create Lobby" />
+                            <Button layoutX="15.0" layoutY="246.0" mnemonicParsing="false" onAction="#aao2" text="Create Lobby and AutoAccept" />
+                            <Text layoutX="109.0" layoutY="223.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Just create the lobby" />
+                            <Button layoutX="15.0" layoutY="6.0" mnemonicParsing="false" onAction="#iniciar" text="16x0" />
+                            <Button layoutX="15.0" layoutY="86.0" mnemonicParsing="false" onAction="#criar" text="15x15" />
+                            <Button layoutX="15.0" layoutY="126.0" mnemonicParsing="false" onAction="#derank" text="Derank" />
+                            <Button layoutX="15.0" layoutY="286.0" mnemonicParsing="false" onAction="#stop" text="Stop (f8)" />
+                            <Text layoutX="63.0" layoutY="23.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" Winning lobby always alternates" />
+                            <Separator layoutX="-19.0" layoutY="36.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutX="-19.0" layoutY="76.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutX="-8.0" layoutY="116.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Text layoutX="72.0" layoutY="103.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Games always tied" />
+                            <Text layoutX="77.0" layoutY="143.0" strokeType="OUTSIDE" strokeWidth="0.0" text="You only need lobby 1 open for this mode" />
+                            <Text layoutX="129.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Only accepts the match" />
+                            <Text layoutX="193.0" layoutY="263.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Create the lobby and accept the match" />
+                            <Separator layoutX="-8.0" layoutY="156.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutX="-4.0" layoutY="196.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutX="-4.0" layoutY="236.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Text layoutX="86.0" layoutY="303.0" strokeType="OUTSIDE" strokeWidth="0.0" text="To stop any boost stage" />
+                            <Button layoutX="15.0" layoutY="46.0" mnemonicParsing="false" onAction="#iniciar2" text="16x0" />
+                            <Text layoutX="64.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Only lobby 1 will always win" />
+                            <Separator layoutX="-8.0" layoutY="276.0" prefHeight="6.0" prefWidth="683.0" />
+                        </children>
+                    </AnchorPane>
+                </content>
+            </Tab>
+            <Tab text="Wingman">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                        <children>
+                            <Button layoutX="15.0" layoutY="6.0" mnemonicParsing="false" onAction="#X9" text="9x0" />
+                            <Button layoutX="15.0" layoutY="46.0" mnemonicParsing="false" onAction="#X92" text="9x0" />
+                            <Button layoutX="15.0" layoutY="86.0" mnemonicParsing="false" onAction="#aa1" text="AutoAccept Only" />
+                            <Button layoutX="15.0" layoutY="126.0" mnemonicParsing="false" onAction="#createlobby2" text="Create Lobby" />
+                            <Button layoutX="15.0" layoutY="166.0" mnemonicParsing="false" onAction="#aa21" text="Create Lobby and AutoAccept" />
+                            <Button layoutX="15.0" layoutY="206.0" mnemonicParsing="false" onAction="#stop" text="Stop (f8)" />
+                            <Separator layoutY="36.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutX="-21.0" layoutY="76.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutX="-12.0" layoutY="116.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutX="-12.0" layoutY="156.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Separator layoutY="196.0" prefHeight="6.0" prefWidth="683.0" />
+                            <Text layoutX="81.0" layoutY="223.0" strokeType="OUTSIDE" strokeWidth="0.0" text="To stop any boost stage" />
+                            <Text layoutX="56.0" layoutY="62.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Only lobby 1 will always win" />
+                            <Text layoutX="56.0" layoutY="25.0" strokeType="OUTSIDE" strokeWidth="0.0" text=" Winning lobby always alternates" />
+                            <Text layoutX="130.0" layoutY="103.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Only accepts the match" />
+                            <Text layoutX="108.0" layoutY="143.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Just create the lobby" />
+                            <Text layoutX="194.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Create the lobby and accept the match" />
+                        </children>
+                    </AnchorPane>
+                </content>
+            </Tab>
+            <Tab text="About">
+                <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                        <children>
+                            <Button layoutX="15.0" layoutY="15.0" mnemonicParsing="false" onAction="#steam" text="How To Use" />
+                            <Button layoutX="101.0" layoutY="15.0" mnemonicParsing="false" onAction="#discord" text="Discord" />
+                            <Text layoutX="14.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Thank you for supporting the project" />
+                        </children>
+                    </AnchorPane>
+                </content>
+            </Tab>
+        </tabs>
+    </TabPane>
+</children>
+</VBox>
