@@ -19,5 +19,5 @@ CD /D "%~dp0"
 :: BatchGotAdmin (Run as Admin code ends)
 :: Your codes should start from the following line
 title VertigoBoost - Debug
-java -jar -Xms128M -Xmx128M vertigo-obf.jar
+java -jar -Xms128M -Xmx128M VertigoBoostingPanel.jar
 pause
